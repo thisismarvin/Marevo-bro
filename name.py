@@ -1,0 +1,2 @@
+def promt():
+    pass
