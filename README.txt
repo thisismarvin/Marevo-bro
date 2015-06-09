@@ -1,1 +1,1 @@
-The main aim of this project: to understand a mechanism of work with git bash and git hub.
+The main aim of this project: to understand a mechanism of working with git bash and git hub.
